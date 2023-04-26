@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AidanDorn
+- I’m currently learning Java
+- How to reach me AidanmDorn@gmail.com
