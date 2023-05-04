@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AidanDorn
-- I’m currently learning Java
+- 👋 Hey, I’m @AidanDorn
+- I’m currently learning Java and web development
 - How to reach me AidanmDorn@gmail.com
