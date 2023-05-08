@@ -6,7 +6,7 @@ I'm currently learning Java, JS, HTML, CSS, and C#.<br>My hobbies aside from pro
 ### Backend:
 [![My Skills](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)<br/>
 ### Frontend:
-(https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br/>
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,github,eclipse,discord,linux)](https://skillicons.dev)<br/>
 # Stats:
