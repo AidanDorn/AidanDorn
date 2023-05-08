@@ -3,7 +3,7 @@ I'm currently learning Java, JS, HTML, CSS, and C#.<br>My hobbies aside from pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidan-dorn-b78b0b246/) 
 # Stack:
 ## Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,csharp)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,cs)](https://skillicons.dev)<br/>
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,github,eclipse,linux)](https://skillicons.dev)<br/>
 # Stats:
