@@ -6,4 +6,4 @@ My favorites sports teams are the Seattle mariners and the Seattle Kraken.<br><b
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,cs,js,html,css)](https://skillicons.dev)
 ## Tools:
-[![My Skills](https://skillicons.dev/icons?i=idea,git,eclipse,linux)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,eclipse,linux)](https://skillicons.dev)<br/>
