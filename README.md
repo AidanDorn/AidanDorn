@@ -4,6 +4,6 @@ My favorites sports team is the Seattle mariners<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidan-dorn-b78b0b246/) 
 # Stack:
 ## Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css)](https://skillicons.dev)
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,eclipse,linux)](https://skillicons.dev)<br/>
