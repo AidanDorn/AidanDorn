@@ -6,4 +6,4 @@ My favorites sports team is the Seattle mariners<br><br>
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
 ## Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,eclipse,linux)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,linux)](https://skillicons.dev)<br/>
